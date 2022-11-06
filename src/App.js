@@ -54,20 +54,6 @@ function App() {
       alert(err);
     }
   }
-
-  // useEffect(() => {
-  //   axios.get(URL)
-  //     .then((response)=> {
-  //       const coctail = response.data.drinks;
-  //       // setName(coctail.strDrink);
-  //       setMeasure1(coctail.strMeasure1);
-  //       setIngredients1(coctail.strIngredient1);
-  //       setIstructions(coctail.strInstructions);
-  //     }).catch (error => {
-  //       alert (error);
-  //     })
-
-  // }, [])
   
 
   return (
