@@ -70,11 +70,11 @@ function App() {
             <h3>{name}</h3>
             <img src={img} className="rounded max-width=50%"></img>
             <h4>Ingredients</h4>
-            <p>{measure1}  {ingredients1}</p>
-            <p>{measure2}  {ingredients2}</p>
-            <p>{measure3}  {ingredients3}</p>
-            <p>{measure4}  {ingredients4}</p>
-            <p>{measure5}  {ingredients5}</p>
+            <p>{measure1} {ingredients1}</p>
+            <p>{measure2} {ingredients2}</p>
+            <p>{measure3} {ingredients3}</p>
+            <p>{measure4} {ingredients4}</p>
+            <p>{measure5} {ingredients5}</p>
             <h4>Instructions</h4>
             <p>{instructions}</p>
       </div>
